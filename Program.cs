@@ -8,8 +8,7 @@ namespace Task_2_week_2
         {
             string option = "";
             string answer = "тень";
-            
-
+            int i = 0;
                 do
                 {
 
@@ -20,17 +19,18 @@ namespace Task_2_week_2
                         $"\nОно коротким бывает, то длинным," +
                         $"\nИ оно всегда с нами," +
                         $"\nВо всех разговорах, забавах и играх.");
+                        i++;
+
 
 
                     option = Console.ReadLine();
                 }
 
 
-                while 
-
-                (option.ToLower() != answer.ToLower());
-
+                while (option.ToLower() != answer.ToLower() && i < 3);
             
+
+
 
 
 
