@@ -1,4 +1,8 @@
 ﻿using System;
+using System.IO;
+using System.Text;
+using System.Collections.Concurrent;
+using System.Text;
 
 namespace Task_2_week_2
 {
@@ -7,41 +11,19 @@ namespace Task_2_week_2
         static void Main(string[] args)
         {
             string option = "";
-            string answer = "тень";
+            string answer = "shadow";
             int i = 0;
-                do
-                {
+          
+            do
+            {
+                string riddler1 = File.ReadAllText("Riddlers.txt");
+                Console.WriteLine(riddler1);
+                
+                i++;
+                option = Console.ReadLine();
 
-                    Console.WriteLine("Ты предстал перед могучим сфинксом. Внимай моим загадкам - говорит он.");
-                    Console.WriteLine($"Его не потрогаешь и не увидишь " +
-                        $"\nФормы нет у него." +
-                        $"\nНет вообще ничего – только имя." +
-                        $"\nОно коротким бывает, то длинным," +
-                        $"\nИ оно всегда с нами," +
-                        $"\nВо всех разговорах, забавах и играх.");
-                        i++;
-
-
-
-                    option = Console.ReadLine();
-                }
-
-
-                while (option.ToLower() != answer.ToLower() && i < 3);
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
+            }
+            while (option.ToLower() != answer.ToLower() && i < 3);
         }
     }
 }
