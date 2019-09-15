@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a.kurets\\Source\\Repos\\KYROPA\\Task-3\\Task 2 week 2.csproj": {}
+    "C:\\Users\\a.kurets\\source\\repos\\KYROPA\\Task-3\\Task 2 week 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a.kurets\\Source\\Repos\\KYROPA\\Task-3\\Task 2 week 2.csproj": {
+    "C:\\Users\\a.kurets\\source\\repos\\KYROPA\\Task-3\\Task 2 week 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a.kurets\\Source\\Repos\\KYROPA\\Task-3\\Task 2 week 2.csproj",
+        "projectUniqueName": "C:\\Users\\a.kurets\\source\\repos\\KYROPA\\Task-3\\Task 2 week 2.csproj",
         "projectName": "Task 2 week 2",
-        "projectPath": "C:\\Users\\a.kurets\\Source\\Repos\\KYROPA\\Task-3\\Task 2 week 2.csproj",
+        "projectPath": "C:\\Users\\a.kurets\\source\\repos\\KYROPA\\Task-3\\Task 2 week 2.csproj",
         "packagesPath": "C:\\Users\\a.kurets\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a.kurets\\Source\\Repos\\KYROPA\\Task-3\\obj\\",
+        "outputPath": "C:\\Users\\a.kurets\\source\\repos\\KYROPA\\Task-3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
