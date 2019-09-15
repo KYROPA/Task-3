@@ -70,6 +70,8 @@ namespace Task_2_week_2
                 }
             }
             while (option.ToLower() != answer3.ToLower() && i < 3);
+
+            Console.WriteLine("GAME OVER");
         }
     }
 }
