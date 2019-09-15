@@ -20,8 +20,6 @@ namespace Task_2_week_2
                 string riddler1 = File.ReadAllText("Riddlers.txt");
                 Console.WriteLine(riddler1);
                 Console.WriteLine($"\nWrite your answer, buddy.\n");
-
-
                 i++;
                 option = Console.ReadLine();
                 if (answer == option)
