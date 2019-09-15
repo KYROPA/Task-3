@@ -11,3 +11,16 @@ C:\Users\a.kurets\source\repos\Task 2 week 2\obj\Debug\netcoreapp2.1\Task 2 week
 C:\Users\a.kurets\source\repos\Task 2 week 2\obj\Debug\netcoreapp2.1\Task 2 week 2.pdb
 C:\Users\a.kurets\source\repos\Task 2 week 2\obj\Debug\netcoreapp2.1\Task_2_week_2.Properties.Resources.resources
 C:\Users\a.kurets\source\repos\Task 2 week 2\obj\Debug\netcoreapp2.1\Task 2 week 2.csproj.GenerateResource.cache
+C:\Users\a.kurets\Source\Repos\KYROPA\Task-3\bin\Debug\netcoreapp2.1\Task 2 week 2.deps.json
+C:\Users\a.kurets\Source\Repos\KYROPA\Task-3\bin\Debug\netcoreapp2.1\Task 2 week 2.runtimeconfig.json
+C:\Users\a.kurets\Source\Repos\KYROPA\Task-3\bin\Debug\netcoreapp2.1\Task 2 week 2.runtimeconfig.dev.json
+C:\Users\a.kurets\Source\Repos\KYROPA\Task-3\bin\Debug\netcoreapp2.1\Task 2 week 2.dll
+C:\Users\a.kurets\Source\Repos\KYROPA\Task-3\bin\Debug\netcoreapp2.1\Task 2 week 2.pdb
+C:\Users\a.kurets\Source\Repos\KYROPA\Task-3\obj\Debug\netcoreapp2.1\Task 2 week 2.csprojAssemblyReference.cache
+C:\Users\a.kurets\Source\Repos\KYROPA\Task-3\obj\Debug\netcoreapp2.1\Task_2_week_2.Properties.Resources.resources
+C:\Users\a.kurets\Source\Repos\KYROPA\Task-3\obj\Debug\netcoreapp2.1\Task 2 week 2.csproj.GenerateResource.cache
+C:\Users\a.kurets\Source\Repos\KYROPA\Task-3\obj\Debug\netcoreapp2.1\Task 2 week 2.csproj.CoreCompileInputs.cache
+C:\Users\a.kurets\Source\Repos\KYROPA\Task-3\obj\Debug\netcoreapp2.1\Task 2 week 2.AssemblyInfoInputs.cache
+C:\Users\a.kurets\Source\Repos\KYROPA\Task-3\obj\Debug\netcoreapp2.1\Task 2 week 2.AssemblyInfo.cs
+C:\Users\a.kurets\Source\Repos\KYROPA\Task-3\obj\Debug\netcoreapp2.1\Task 2 week 2.dll
+C:\Users\a.kurets\Source\Repos\KYROPA\Task-3\obj\Debug\netcoreapp2.1\Task 2 week 2.pdb
